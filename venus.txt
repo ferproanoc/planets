@@ -1,2 +1,9 @@
 this is new file call venus
 
+a"adding this to venus file >> venus.txt
+ls
+
+clear
+
+echo a"adding this to venus file
+adding a line to venus file
